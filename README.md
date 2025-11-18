@@ -1,3 +1,14 @@
+This is a fork by Shinyleefeon to build a small utility as a project.
+Next steps:
+investigate calls at main.py lines 194+
+determine when first fill is called and inject code to push out csv
+turn csv into list of games with counts
+return optimal game list in order in a text file.
+
+Optional second route -> figure out how to make this usable with the main file through whatever hash it has so it is usable outside of this fork.
+
+
+
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
 
 Archipelago provides a generic framework for developing multiworld capability for game randomizers. In all cases,
