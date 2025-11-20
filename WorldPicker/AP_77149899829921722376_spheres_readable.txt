@@ -1,0 +1,636 @@
+=== READABLE SPHERES REPORT ===
+Source: AP_77149899829921722376.archipelago
+Total Spheres: 39
+============================================================
+
+--- Sphere 1 ---
+  Player: Ike-Emerald (Pokemon Emerald)
+    - Route 104 - Wailmer Pail from Flower Shop Lady
+    - Granite Cave 1F - HM05 from Hiker
+    - Oldale Town - Gift from Shop Tutorial
+    - Rustboro City - HM01 from Cutter's House
+    - Rustboro Gym - TM39 from Roxanne
+    - Dewford Gym - TM08 from Brawly
+    - Rustboro City - Gift from Boy in Apartments
+    - Littleroot Town - Pokeballs from Rival
+    - Route 104 - Gift from Woman Near Berries
+    - Route 104 - TM09 from Boy
+    - Rustboro City - Quick Claw from School Teacher
+    - Dewford Town - Silk Scarf from Man in House
+    - Route 102 - Item
+    - Route 116 - Item Near Tunnel
+    - Route 115 - Item on Beach
+    - Route 116 - Item in Grass
+    - Rustboro City - Item Behind Fences
+    - Rusturf Tunnel - Item West
+    - Granite Cave 1F - Item Before Ladder
+    - Route 104 - Item Near Briney on Ledge
+    - Petalburg Woods - Item Northwest
+    - Petalburg Woods - Item Southwest
+    - Route 104 - Item Behind Flower Shop
+    - Petalburg Woods - Gift from Devon Employee
+    - Rusturf Tunnel - Recover Devon Goods
+    - Rustboro City - Gift from Devon Employee
+    - Devon Corp 3F - Letter from Mr. Stone
+    - Rustboro Gym - Stone Badge
+    - Dewford Gym - Knuckle Badge
+    - Route 104 - Berry from Girl in Flower Shop
+    - Petalburg Woods - Team Aqua Grunt
+    - Rusturf Tunnel - Team Aqua Grunt
+    - Route 104 - Lady Cindy
+    - Route 104 - Rich Boy Winston
+    - Dewford Gym - Black Belt Takao
+    - Rustboro Gym - Leader Roxanne
+    - Dewford Gym - Leader Brawly
+    - Route 116 - School Kid Karen
+    - Route 102 - Youngster Calvin
+    - Route 104 - Youngster Billy
+    - Rustboro Gym - Youngster Josh
+    - Rustboro Gym - Youngster Tommy
+    - Route 116 - Youngster Joey
+    - Route 102 - Youngster Allen
+    - Route 104 - Fisherman Ivan
+    - Route 106 - Fisherman Elliot
+    - Route 106 - Fisherman Ned
+    - Dewford Gym - Battle Girl Jocelyn
+    - Dewford Gym - Battle Girl Laura
+    - Route 104 - Twins Gina and Mia
+    - Route 103 - Rival Brendan/May
+    - Rustboro Gym - Hiker Marc
+    - Dewford Gym - Sailor Brenden
+    - Dewford Gym - Battle Girl Lilith
+    - Dewford Gym - Black Belt Cristian
+    - Rustboro City - Rival Brendan/May
+    - Route 102 - Lass Tiana
+    - Route 104 - Lass Haley
+    - Route 102 - Bug Catcher Rick
+    - Petalburg Woods - Bug Catcher Lyle
+    - Route 116 - Bug Catcher Jose
+    - Petalburg Woods - Bug Catcher James
+    - Route 116 - Hiker Clark
+    - Route 104 - Fisherman Darian
+    - Route 116 - Hiker Devan
+    - Route 116 - Youngster Johnson
+    - Pokedex - Ivysaur
+    - Pokedex - Squirtle
+    - Pokedex - Arbok
+    - Pokedex - Nidoran Female
+    - Pokedex - Abra
+    - Pokedex - Tentacool
+    - Pokedex - Golem
+    - Pokedex - Ponyta
+    - Pokedex - Rapidash
+    - Pokedex - Slowbro
+    - Pokedex - Magnemite
+    - Pokedex - Dodrio
+    - Pokedex - Gastly
+    - Pokedex - Onix
+    - Pokedex - Exeggcute
+    - Pokedex - Cubone
+    - Pokedex - Jynx
+    - Pokedex - Lapras
+    - Pokedex - Kabutops
+    - Pokedex - Mewtwo
+    - Pokedex - Cyndaquil
+    - Pokedex - Furret
+    - Pokedex - Lanturn
+    - Pokedex - Pichu
+    - Pokedex - Igglybuff
+    - Pokedex - Natu
+    - Pokedex - Hoppip
+    - Pokedex - Murkrow
+    - Pokedex - Gligar
+    - Pokedex - Qwilfish
+    - Pokedex - Phanpy
+    - Pokedex - Donphan
+    - Pokedex - Suicune
+    - Pokedex - Tyranitar
+    - Pokedex - Wurmple
+    - Pokedex - Beautifly
+    - Pokedex - Dustox
+    - Pokedex - Lombre
+    - Pokedex - Seedot
+    - Pokedex - Wingull
+    - Pokedex - Whismur
+    - Pokedex - Medicham
+    - Pokedex - Electrike
+    - Pokedex - Wailmer
+    - Pokedex - Baltoy
+    - Pokedex - Clamperl
+    - Pokedex - Luvdisc
+
+  Player: Ike-FF4 (Final Fantasy IV Free Enterprise)
+    - Baron Town -- Exterior -- grass, top
+    - Baron Town -- Exterior -- grass, left
+    - Baron Town -- Exterior -- grass, bottom
+    - Baron Town -- Exterior -- pot outside Rosa's
+    - Baron Town -- Exterior -- pot outside inn
+    - Baron Town -- Exterior -- water, top
+    - Baron Town -- Exterior -- water, bottom
+    - Mist Village -- Exterior -- north grass
+    - Mist Village -- Exterior -- south grass, left
+    - Mist Village -- Exterior -- south grass, right
+    - Kaipo -- Exterior -- pot
+    - Silvera -- Exterior -- north grass
+    - Silvera -- Exterior -- northeast grass
+    - Silvera -- Exterior -- east grass
+    - Toroia Town -- Exterior -- grass, top right
+    - Toroia Town -- Exterior -- grass, left
+    - Toroia Town -- Exterior -- grass, bottom left
+    - Toroia Town -- Exterior -- grass, bottom right
+    - Agart -- Exterior -- grass
+    - Baron Town -- Inn -- treasury, left
+    - Baron Town -- Inn -- treasury, middle
+    - Baron Town -- Inn -- treasury, right
+    - Baron Town -- Inn -- pot
+    - Baron Town -- Rosa's house -- pot
+    - Baron Town -- Rosa's house -- shelf
+    - Mist Village -- Rydia's house -- crawlspace, top left
+    - Mist Village -- Rydia's house -- crawlspace, top right
+    - Mist Village -- Rydia's house -- crawlspace, bottom right
+    - Mist Village -- Rydia's house -- tiara room
+    - Black Chocobo Forest -- northeast, top
+    - Black Chocobo Forest -- northeast, bottom
+    - Black Chocobo Forest -- south grass
+    - Damcyan -- 2F -- chest
+    - Damcyan -- Treasury entrance -- west cell
+    - Damcyan -- Treasury entrance -- middle cell, left
+    - Damcyan -- Treasury entrance -- middle cell, right
+    - Damcyan -- Treasury -- top left chest
+    - Damcyan -- Treasury -- top middle chest
+    - Damcyan -- Treasury -- top right chest
+    - Damcyan -- Treasury -- top right pot
+    - Damcyan -- Treasury -- bottom left pot
+    - Damcyan -- Treasury -- bottom left chest
+    - Damcyan -- Treasury -- bottom middle chest
+    - Damcyan -- Treasury -- bottom right chest
+    - Damcyan -- Treasury -- bottom right pot
+    - Fabul -- Throne room -- west pot
+    - Fabul -- Throne room -- top chest
+    - Fabul -- Throne room -- middle chest
+    - Fabul -- Throne room -- bottom chest
+    - Fabul -- East tower 2F -- pot
+    - Fabul -- East tower 3F (king's bedroom) -- chest
+    - Fabul -- West tower 1F -- top chest
+    - Fabul -- West tower 1F -- pot
+    - Fabul -- West tower 1F -- middle chest
+    - Fabul -- West tower 1F -- bottom chest
+    - Toroia Castle -- East wing pot room -- pot
+    - Toroia Castle -- East wing chest room -- left cell, left
+    - Toroia Castle -- East wing chest room -- left cell, right
+    - Toroia Castle -- East wing chest room -- middle-left cell, left
+    - Toroia Castle -- East wing chest room -- middle-left cell, right
+    - Toroia Castle -- East wing chest room -- middle-right cell, left
+    - Toroia Castle -- East wing chest room -- middle-right cell, right
+    - Toroia Castle -- East wing chest room -- right cell, left
+    - Toroia Castle -- East wing chest room -- right cell, right
+    - Eblan Castle -- 1F -- chest
+    - Eblan Castle -- 2F -- west room, top
+    - Eblan Castle -- 2F -- west room, bottom
+    - Eblan Castle -- 2F -- east room, top
+    - Eblan Castle -- 2F -- east room, bottom-left
+    - Eblan Castle -- 2F -- east room, bottom-right
+    - Eblan Castle -- West tower 1F -- left
+    - Eblan Castle -- West tower 1F -- right
+    - Eblan Castle -- West tower 2F -- top-left pot
+    - Eblan Castle -- West tower 2F -- bottom-right pot
+    - Eblan Castle -- West tower 2F -- left chest
+    - Eblan Castle -- West tower 2F -- right chest
+    - Eblan Castle -- East tower 1F -- left
+    - Eblan Castle -- East tower 1F -- right
+    - Eblan Castle -- East tower 2F -- left side, top chest
+    - Eblan Castle -- East tower 2F -- left side, bottom chest
+    - Eblan Castle -- East tower 2F -- pot
+    - Eblan Castle -- East tower 2F -- right side, top chest
+    - Eblan Castle -- East tower 2F -- right side, bottom chest
+    - Eblan Castle -- Basement -- left
+    - Eblan Castle -- Basement -- middle
+    - Eblan Castle -- Basement -- right
+    - Mist Cave -- top left
+    - Mist Cave -- top right
+    - Mist Cave -- center
+    - Mist Cave -- bottom right
+    - Watery Pass -- Entrance ("South") -- rightmost
+    - Watery Pass -- Entrance ("South") -- center-right
+    - Watery Pass -- Entrance ("South") -- bottom left
+    - Watery Pass -- Entrance ("South") -- center
+    - Watery Pass -- Entrance ("South") -- top right
+    - Watery Pass -- Camp level ("B2F") -- top right
+    - Watery Pass -- Camp level ("B2F") -- bottom left
+    - Watery Pass -- Camp level ("B2F") -- top left
+    - Watery Pass -- B3F -- right
+    - Watery Pass -- B3F -- left
+    - Watery Pass -- Passage to exit ("B2F") -- left
+    - Watery Pass -- Passage to exit ("B2F") -- right
+    - Watery Pass -- Exit ("North") -- leftmost
+    - Watery Pass -- Exit ("North") -- top left
+    - Watery Pass -- Exit ("North") -- bridge chest
+    - Watery Pass -- Exit ("North") -- bottom right
+    - Waterfall -- B2F -- left
+    - Waterfall -- B2F -- right
+    - Waterfall -- Lake -- right
+    - Waterfall -- Lake -- bottom
+    - Antlion Cave -- B1F -- top left
+    - Antlion Cave -- B1F -- top center-left
+    - Antlion Cave -- B1F -- bottom left
+    - Antlion Cave -- B1F -- middle left
+    - Antlion Cave -- B1F -- top right
+    - Antlion Cave -- B1F -- middle right
+    - Antlion Cave -- B2F -- top right
+    - Antlion Cave -- B2F -- bottom right
+    - Antlion Cave -- B2F -- top left
+    - Antlion Cave -- Save room -- right
+    - Antlion Cave -- Save room -- top
+    - Antlion Cave -- Save room -- left
+    - Antlion Cave -- Treasure room -- chest
+    - Mt. Hobs -- Summit -- chest
+    - Mt. Hobs -- Save area -- leftmost
+    - Mt. Hobs -- Save area -- center-left
+    - Mt. Hobs -- Save area -- center-right
+    - Mt. Hobs -- Save area -- rightmost
+    - Watery Pass -- Behind waterfall -- left
+    - Watery Pass -- Behind waterfall -- middle
+    - Watery Pass -- Behind waterfall -- right
+    - Mt. Ordeals -- 1F -- bottom
+    - Mt. Ordeals -- 1F -- top
+    - Mt. Ordeals -- 3F ("7th Station") -- left
+    - Mt. Ordeals -- 3F ("7th Station") -- center
+    - Cave Magnes -- B1F -- top right
+    - Cave Magnes -- B1F -- bottom left
+    - Cave Magnes -- B2F -- chest
+    - Cave Magnes -- Pit room -- left
+    - Cave Magnes -- Pit room -- right
+    - Cave Magnes -- Torch room -- left
+    - Cave Magnes -- Torch room -- center
+    - Cave Magnes -- Torch room -- right
+    - Cave Magnes -- B3F to B4F passage -- chest
+    - Cave Magnes -- B4F -- chest (left of crystal room entrance)
+    - Tower of Zot -- 1F -- chest
+    - Tower of Zot -- 2F -- chest
+    - Tower of Zot -- 5F (through 4F center-left door) -- top
+    - Tower of Zot -- 5F (through 4F center door) -- chest
+    - Tower of Zot -- 5F (through 4F center-left door) -- bottom
+    - Tower of Zot -- 5F (through 4F center-right door) -- chest
+    - Fabul Chocobo Forest -- grass
+    - Mt. Ordeals Chocobo Forest -- grass
+    - Baron Chocobo Forest -- grass
+    - Toroia South Chocobo Forest -- grass
+    - Island Chocobo Forest -- grass
+    - Baron Castle -- 1F -- Starting item
+    - Fabul -- East tower 3F (king's bedroom) -- Defend Fabul reward item
+    - Toroia Castle -- Hospital -- Edward/Toroia item
+    - Starting Character 1
+    - Starting Character 2
+    - Watery Pass Character
+    - Damcyan Character
+    - Mysidia Character 1
+    - Mysidia Character 2
+    - Mt. Ordeals Character
+
+  Player: Ike-KDL3 (Kirby's Dream Land 3)
+    - Grass Land 1 - Complete
+    - Grass Land 2 - Complete
+    - Grass Land 3 - Complete
+    - Grass Land 4 - Complete
+    - Grass Land 5 - Complete
+    - Grass Land 6 - Complete
+    - Grass Land 1 - Tulip
+    - Grass Land 3 - Pitcherman
+    - Grass Land 6 - Pierre
+
+  Player: Ike-LADX (Links Awakening DX)
+    - Tarin's Gift (Mabe Village)
+
+  Player: Ike-LOZ (The Legend of Zelda)
+    - Starting Sword Cave
+    - Armos Knights
+    - Letter Cave
+
+  Player: Ike-LttP (A Link to the Past)
+    - Secret Passage
+    - Eastern Palace - Compass Chest
+    - Floodgate Chest
+    - Eastern Palace - Cannonball Chest
+    - Link's House
+    - Kakariko Tavern
+    - Eastern Palace - Map Chest
+    - Sanctuary
+    - Kakariko Well - Left
+    - Kakariko Well - Middle
+    - Kakariko Well - Right
+    - Kakariko Well - Bottom
+    - Hyrule Castle - Map Chest
+    - Blind's Hideout - Left
+    - Blind's Hideout - Right
+    - Blind's Hideout - Far Left
+    - Blind's Hideout - Far Right
+    - Link's Uncle
+    - Bottle Merchant
+    - Lost Woods Hideout
+    - Mushroom
+    - Sunken Treasure
+
+  Player: Ike-Paint (Paint)
+    - Similarity: 1.0%
+    - Similarity: 2.0%
+    - Similarity: 3.0%
+    - Similarity: 4.0%
+    - Similarity: 5.0%
+    - Similarity: 6.0%
+    - Similarity: 7.0%
+    - Similarity: 8.0%
+    - Similarity: 9.0%
+    - Similarity: 10.0%
+
+  Player: Ike-pokered (Pokemon Red and Blue)
+    - Player's House 2F - Player's PC
+    - Route 1 - Free Sample Man
+    - Viridian Pokemart - Item for Oak
+    - Pokedex - Ivysaur
+    - Pokedex - Beedrill
+    - Pokedex - Vileplume
+    - Pokedex - Alakazam
+    - Pokedex - Shellder
+    - Pokedex - Eevee
+
+  Player: Ike-SMW (Super Mario World)
+    - Yellow Switch Palace
+    - Donut Plains 3 - Normal Exit
+    - Donut Plains 4 - Normal Exit
+    - Vanilla Dome 4 - Normal Exit
+    - #3 Lemmy's Castle - Normal Exit
+    - Chocolate Island 4 - Normal Exit
+    - #3 Lemmy's Castle - Boss
+
+  Player: Ike-WW (The Wind Waker)
+    - Windfall Island - Jail - Tingle - First Gift
+    - Windfall Island - Jail - Tingle - Second Gift
+    - Windfall Island - Jail - Maze Chest
+    - Windfall Island - Maggie - Free Item
+    - Dragon Roost Cavern - First Room
+    - The Great Sea - Salvage Corp Gift
+    - Angular Isles - Peak
+    - Pawprint Isle - Chuchu Cave - Chest
+    - Northern Fairy Island - Great Fairy
+
+  Player: Ike64 (Super Mario 64)
+    - BoB: Big Bob-Omb on the Summit
+    - BoB: Footrace with Koopa The Quick
+    - BoB: Bob-omb Buddy
+
+  Player: IkeCOTM (Castlevania - Circle of the Moon)
+    - Catacomb: Right column fake wall
+    - Catacomb: Earth Demon bone pit - Lower
+    - Catacomb: Muddy Mudman platforms room - Lower
+    - Catacomb: Slide space zone
+    - Catacomb: Pre-Cerberus Hopper treasure room
+    - Catacomb: Below right column save room
+    - Catacomb: Right column Spirit room
+    - Catacomb: Pre-Cerberus lone Skeleton room
+    - Catacomb: Earth Demon dash room
+    - Catacomb: Behind Cerberus
+
+  Player: IkeFF1 (Final Fantasy)
+    - Temple of Fiends - Unlocked Duo 1
+    - Temple of Fiends - Unlocked Duo 2
+    - Temple of Fiends - Unlocked Single
+    - Dwarf Cave - Entrance 1
+    - Dwarf Cave - Entrance 2
+    - Matoya's Cave - Chest 3
+    - Matoya's Cave - Chest 2
+    - King
+    - Bikke
+    - Princess
+
+  Player: IkeFinder (ChecksFinder)
+    - Tile 1
+    - Tile 2
+    - Tile 3
+    - Tile 4
+    - Tile 5
+
+  Player: IkeJAK (Jak and Daxter: The Precursor Legacy)
+    - FJ: Get To The Top Of The Temple
+    - FJ: Catch 200 Pounds Of Fish
+    - FJ: Follow The Canyon To The Sea
+    - FJ: Open The Locked Temple Door
+    - SV: Herd The Yakows Into The Pen
+    - SB: Chase The Seagulls
+    - SB: Explore The Beach
+    - SB: Climb The Sentinel
+    - GR: Find The Cell On The Path
+    - GR: Open The Precursor Door
+    - FJ: Scout Fly Near Dark Eco Boxes
+    - SB: Scout Fly Overlooking Locked Boxes
+    - GR: Scout Fly On Ground, Front
+    - FJ: Scout Fly On Top Of Temple
+    - SB: Scout Fly On Path To Flut Flut
+    - SV: Scout Fly Behind Sculptor's House
+    - GR: Scout Fly On Right Ledge
+    - FJ: Scout Fly Behind Lurker Machine
+    - SV: Scout Fly Under Bridge
+    - GR: Scout Fly On Middle Ledge, Right
+    - FJ: Scout Fly At End Of River
+    - GR: Scout Fly On Top Ledge
+    - SB: Scout Fly Under Wood Pillars
+    - SV: Scout Fly In Fisherman's House
+    - GR: Scout Fly On Middle Ledge, Left
+    - FJ: Scout Fly Around Temple Spire
+    - SB: Scout Fly At Entrance
+    - SV: Scout Fly In Mayor's House
+    - GR: Scout Fly On Ground, Back
+    - FJ: Scout Fly At End Of Path
+    - GR: Scout Fly On Left Ledge
+    - Jungle Elevator
+    - Fisherman's Boat
+    - Orb Cache in Forbidden Jungle
+    - Orb Cache near Flut Flut Egg
+    - Orb Cache near Pelican's Nest
+    - Orb Bundle 1
+    - Orb Bundle 2
+    - Orb Bundle 3
+    - Orb Bundle 4
+    - Orb Bundle 5
+    - Orb Bundle 6
+    - Orb Bundle 7
+    - Orb Bundle 8
+    - Orb Bundle 9
+    - Orb Bundle 10
+    - Orb Bundle 11
+    - Orb Bundle 12
+    - Orb Bundle 13
+    - Orb Bundle 14
+
+  Player: IkeKH1 (Kingdom Hearts)
+    - Traverse Town Defeat Guard Armor Dodge Roll Event
+    - Traverse Town Defeat Guard Armor Fire Event
+    - Traverse Town Defeat Guard Armor Blue Trinity Event
+    - Traverse Town Leon Secret Waterway Earthshine Event
+    - Traverse Town Defeat Guard Armor Brave Warrior Event
+    - Traverse Town 1st District Speak with Cid Event
+    - Traverse Town Item Shop Postcard
+    - Traverse Town 1st District Safe Postcard
+    - Traverse Town 3rd District Balcony Postcard
+    - Level 001
+    - Level 002
+    - Level 003
+    - Level 004
+    - Level 005
+    - Level 006
+    - Level 007
+    - Level 008
+    - Level 009
+    - Level 010
+
+  Player: IkeKH2 (Kingdom Hearts 2)
+    - (TWTNW) Fragment Crossing Mythril Stone
+    - (TWTNW) Fragment Crossing Mythril Crystal
+    - (TWTNW) Fragment Crossing AP Boost
+    - (TWTNW) Fragment Crossing Orichalcum
+    - (100Acre) Pooh's House 100 Acre Wood Map
+    - (100Acre) Pooh's House AP Boost
+    - (100Acre) Pooh's House Mythril Stone
+    - Garden of Assemblage Map
+    - GoA Lost Illusion
+    - Proof of Nonexistence Location
+    - Kingdom Key Slot
+    - Comet Staff Slot
+    - Hammer Staff Slot
+    - Lord's Broom Slot
+    - Mages Staff Slot
+    - Victory Bell Slot
+    - Wisdom Wand Slot
+    - Adamant Shield Slot
+    - Chain Gear Slot
+    - Dream Cloud Slot
+    - Falling Star Slot
+    - Knight Defender Slot
+    - Knight's Shield Slot
+    - (AT) Undersea Kingdom Map
+
+  Player: IkeSA2B (Sonic Adventure 2 Battle)
+    - Green Forest - 1
+    - Green Forest - 2
+    - Green Forest - Upgrade
+    - Pumpkin Hill - Upgrade
+    - Pyramid Cave - Upgrade
+    - Mad Space - Upgrade
+    - Green Forest - Chao Key 1
+    - Pumpkin Hill - Chao Key 1
+    - Pyramid Cave - Chao Key 1
+    - Mad Space - Chao Key 1
+    - Green Forest - Chao Key 2
+    - Pumpkin Hill - Chao Key 2
+    - Green Forest - Chao Key 3
+    - Pumpkin Hill - Chao Key 3
+    - Green Forest - Big
+    - Pumpkin Hill - Big
+
+  Player: IkeSM (Super Metroid)
+    - Morphing Ball
+    - Energy Tank, Brinstar Ceiling
+
+  Player: SMZ (SMZ3)
+    - Morphing Ball
+    - Mushroom
+    - Lost Woods Hideout
+    - Kakariko Well - Top
+    - Kakariko Well - Left
+    - Kakariko Well - Middle
+    - Kakariko Well - Right
+    - Kakariko Well - Bottom
+    - Blind's Hideout - Top
+    - Blind's Hideout - Far Left
+    - Blind's Hideout - Left
+    - Blind's Hideout - Right
+    - Blind's Hideout - Far Right
+    - Bottle Merchant
+    - Kakariko Tavern
+    - Sahasrahla's Hut - Left
+    - Sahasrahla's Hut - Middle
+    - Sahasrahla's Hut - Right
+    - Maze Race
+    - Mini Moldorm Cave - Far Left
+    - Mini Moldorm Cave - Left
+    - Mini Moldorm Cave - NPC
+    - Mini Moldorm Cave - Right
+    - Floodgate Chest
+    - Sunken Treasure
+    - Ice Rod Cave
+    - Sanctuary
+    - Hyrule Castle - Map Chest
+    - Link's Uncle
+    - Secret Passage
+    - Eastern Palace - Cannonball Chest
+    - Eastern Palace - Map Chest
+    - Eastern Palace - Compass Chest
+    - Link's House
+    - Aginah's Cave
+    - Chicken House
+    - Mini Moldorm Cave - Far Right
+
+  Player: Shinyleefeon2 (Ocarina of Time)
+    - KF Midos Top Left Chest
+    - KF Midos Top Right Chest
+    - KF Midos Bottom Left Chest
+    - KF Midos Bottom Right Chest
+    - KF Kokiri Sword Chest
+    - LW Gift from Saria
+    - LW Deku Scrub Near Bridge
+    - HF Open Grotto Chest
+    - Market Shooting Gallery Reward
+    - Market Lost Dog
+    - Market GS Guard House
+    - Market Bazaar Item 7
+    - Market Potion Shop Item 6
+    - Market Potion Shop Item 8
+    - Market Bombchu Shop Item 5
+    - Market Bombchu Shop Item 7
+    - HC Malon Egg
+    - HC GS Tree
+    - LLR Freestanding PoH
+    - LLR GS Tree
+    - Kak Anju as Child
+    - Kak Impas House Freestanding PoH
+    - Kak Open Grotto Chest
+    - Graveyard Shield Grave Chest
+    - Graveyard Dampe Gravedigging Tour
+    - DMT Freestanding PoH
+    - ZR GS Tree
+    - LH Child Fishing
+    - GV Crate Freestanding PoH
+    - GV Waterfall Freestanding PoH
+    - Deku Tree Map Chest
+    - Deku Tree Slingshot Room Side Chest
+    - Deku Tree Slingshot Chest
+    - Deku Tree Compass Chest
+    - Deku Tree Compass Room Side Chest
+    - Deku Tree Basement Chest
+    - Deku Tree GS Compass Room
+    - Deku Tree GS Basement Gate
+    - Deku Tree Queen Gohma Heart
+
+
+--- Sphere 2 ---
+=== SPHERE 1 CHECK COUNT RANKING ===
+  Player: Ike-FF4 (Final Fantasy IV Free Enterprise), Checks: 166
+  Player: Ike-Emerald (Pokemon Emerald), Checks: 113
+  Player: IkeJAK (Jak and Daxter: The Precursor Legacy), Checks: 50
+  Player: Shinyleefeon2 (Ocarina of Time), Checks: 39
+  Player: SMZ (SMZ3), Checks: 37
+  Player: IkeKH2 (Kingdom Hearts 2), Checks: 24
+  Player: Ike-LttP (A Link to the Past), Checks: 22
+  Player: IkeKH1 (Kingdom Hearts), Checks: 19
+  Player: IkeSA2B (Sonic Adventure 2 Battle), Checks: 16
+  Player: Ike-Paint (Paint), Checks: 10
+  Player: IkeCOTM (Castlevania - Circle of the Moon), Checks: 10
+  Player: IkeFF1 (Final Fantasy), Checks: 10
+  Player: Ike-KDL3 (Kirby's Dream Land 3), Checks: 9
+  Player: Ike-pokered (Pokemon Red and Blue), Checks: 9
+  Player: Ike-WW (The Wind Waker), Checks: 9
+  Player: Ike-SMW (Super Mario World), Checks: 7
+  Player: IkeFinder (ChecksFinder), Checks: 5
+  Player: Ike-LOZ (The Legend of Zelda), Checks: 3
+  Player: Ike64 (Super Mario 64), Checks: 3
+  Player: IkeSM (Super Metroid), Checks: 2
+  Player: Ike-LADX (Links Awakening DX), Checks: 1
