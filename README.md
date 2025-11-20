@@ -1,12 +1,5 @@
 This is a fork by Shinyleefeon to build a small utility as a project.
-Next steps:
-investigate calls at main.py lines 194+
-determine when first fill is called and inject code to push out csv
-turn csv into list of games with counts
-return optimal game list in order in a text file.
-
-Optional second route -> figure out how to make this usable with the main file through whatever hash it has so it is usable outside of this fork.
-
+Running worldpicker.py will accept an archipelago file as an input, unpack it, and give out a list of sphere 1 checks and which worlds have the most checks.
 
 
 # [Archipelago](https://archipelago.gg) ![Discord Shield](https://discordapp.com/api/guilds/731205301247803413/widget.png?style=shield) | [Install](https://github.com/ArchipelagoMW/Archipelago/releases)
